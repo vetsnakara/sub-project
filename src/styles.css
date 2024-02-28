@@ -1,3 +1,7 @@
+* {
+  margin: 0;
+}
+
 body {
   color: red;
   font-size: 10px;
